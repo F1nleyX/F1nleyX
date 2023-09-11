@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Finley</h1>
 <h3 align="center">A developer from Germany</h3>
+<img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f1nleyx&label=Profile%20views&color=0e75b6&style=flat" alt="f1nleyx" /> </p>
 
