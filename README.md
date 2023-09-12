@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f1nleyx&label=Profile%20views&color=0e75b6&style=flat" alt="f1nleyx" /> </p>
 
-- 🌱 I’m currently learning **WINUI3 and C#**
+- 🌱 I’m currently learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
